@@ -2,6 +2,8 @@
 
 ### Hi I'm Suphanat, Welcome to my Github profile 👋
 
+- สิ่งที่ใช้พัฒนา: Python, tkInter UI module
+
 ![img1](https://user-images.githubusercontent.com/80037547/118217812-6b20a280-b4a0-11eb-9ceb-574a2f7c9c61.jpg) 
 
 
