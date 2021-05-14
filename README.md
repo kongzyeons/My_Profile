@@ -39,7 +39,9 @@
 
 ## My project
 
-  I studied industrial engineering at Kasetsart University year 4.
-I am interested in artificial intelligence, machine learning, and data science.Although, I will study industrial engineering,but I feel challenging with these of work
+   I have studied industrial engineering at Kasetsart University for 4 years.
+I am interested in Artificial Intelligence, Machine Learning, and Data Science.Although, I will study industrial engineering,but I feel challenging with these of work
+
+
 
 
