@@ -45,6 +45,8 @@ I am interested in Artificial Intelligence, Machine Learning, and Data Science.A
 - Optic-Disc and Cup Segmentation >(https://github.com/kongzyeons/Optic-Disc-and-Cup-Segmentation)
 - Heart Disease UCI >(https://github.com/kongzyeons/heart_disease)
 
+### - Chest X-Ray COVID-19 Model
+
 
 
 
