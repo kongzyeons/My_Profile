@@ -46,7 +46,8 @@ I am interested in Artificial Intelligence, Machine Learning, and Data Science.A
 - Heart Disease UCI >(https://github.com/kongzyeons/heart_disease)
 
 
-### - Chest X-Ray COVID-19 Model
+### Chest X-Ray COVID-19 Model
+
 A project that graduated in the 4th year.
 
 
