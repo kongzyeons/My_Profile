@@ -8,7 +8,7 @@
 
 ⚡Now I'm interested working on computer vision.
 
-![05ec4876e7d36fe31716557ddc2bd7ee](https://user-images.githubusercontent.com/80037547/118216636-154afb00-b49e-11eb-995b-942568de3362.gif)
+![7cd53d36d121d839da9600ca055b01db](https://user-images.githubusercontent.com/80037547/118217429-a1a9ed80-b49f-11eb-9071-fa2ae3fca8d5.gif)
 
 
 ## Activities while studying🏢
