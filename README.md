@@ -84,6 +84,9 @@ A project that graduated in the 4th year ,Due to the current epidemic of COVID-1
 this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
 
+![messageImage_1620974735180](https://user-images.githubusercontent.com/80037547/118232420-b8117280-b4ba-11eb-9a2e-3906779d2d7b.jpg)
+
+
 
    
 
