@@ -53,8 +53,7 @@ A project that graduated in the 4th year ,Due to the current epidemic of COVID-1
 	We, as a project team, have used the machine learning which learns a convolutional neural network to create an appropriate model to help filtering the patients more rapidly Accordingly, we distinguish the chest x-ray films to 3 types of films which are X-ray of pneumonia, X-ray of COVID-19, and X-ray of neither pneumonia nor COVID-19 which refers to be normal X-ray films.
 	
 	
-dataset
->(https://www.kaggle.com/c/csc532)
+>dataset (https://www.kaggle.com/c/csc532)
    
    ![1620969057101](https://user-images.githubusercontent.com/80037547/118224534-91007400-b4ad-11eb-98df-9a26a0ec007b.jpg)
    
