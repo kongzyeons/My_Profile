@@ -57,6 +57,8 @@ A project that graduated in the 4th year ,Due to the current epidemic of COVID-1
    
    According to the results, it was found that the most suitable model to screen the COVID-19 patients by using the lung X-ray films is a Resnet 50 model that has been trained and evaluated. When compared to other models using Recall and Specificity, which the recall value was 0.9700 and the specificity value was 0.9674, which both values were the highest recall value and specificity value, respectively. And consequently, the area below the curve was 0.9990.
    
+   ![1620969596292](https://user-images.githubusercontent.com/80037547/118225157-bd68c000-b4ae-11eb-9ebc-2dcd60445891.jpg)
+   
    Academic Paper
 
 >(https://drive.google.com/file/d/15mfMZq9botWBOE2KsYBQf2bYCjoSg9fj/view?usp=sharing)
