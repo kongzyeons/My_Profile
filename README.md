@@ -64,6 +64,17 @@ A project that graduated in the 4th year ,Due to the current epidemic of COVID-1
 >(https://drive.google.com/file/d/15mfMZq9botWBOE2KsYBQf2bYCjoSg9fj/view?usp=sharing)
 
 >(https://drive.google.com/file/d/1tzSDrIf-x3Ehgw8uFxFAqsoPPz985AvP/view?usp=sharing)
+
+
+
+
+   ### Optic-Disc and Cup Segmentation
+   
+   A project that internship in the 3th year Due to the epidemic of COVID-19, I need an internship with a teacher that work in siriraj hospital mahidol university about diabetic retinopathy the optic disc and cup segmentation
+   
+   ![001R (2)](https://user-images.githubusercontent.com/80037547/118231196-f60d9700-b4b8-11eb-8085-b7f199bd8bab.jpg)
+
+   
    
    
 
