@@ -6,7 +6,7 @@
 
 🎓I attained a bachelor's degree after graduating from Kasetsart university of Industrial Engineering.
 
-⚡Now I'm interested working on data science.
+⚡Now I'm interested working on computer vision.
 
 ![11428077_1131490303543831_5529685286520261579_n](https://user-images.githubusercontent.com/80037547/117395345-f12d6e00-af21-11eb-9ea2-0c61f6235b2b.jpg)
 
