@@ -1,6 +1,6 @@
 # Portfolio
 
-### Hi I'm Suphanat, Welcome to my Github profile 👋
+### Hi I'm Suphanat, Welcome to my profile 👋
 
 
 
@@ -41,9 +41,9 @@ I am interested in Artificial Intelligence, Machine Learning, and Data Science.A
 ![342592](https://user-images.githubusercontent.com/80037547/117410025-1333ea00-af3c-11eb-9747-9055a3868c4a.jpg)
 
 ## My project
-
-
--  
+- Chest X-Ray COVID-19 Model >(https://github.com/kongzyeons/Project_x-ray_covid19)
+- Optic-Disc and Cup Segmentation >(https://github.com/kongzyeons/Optic-Disc-and-Cup-Segmentation)
+- Heart Disease UCI >(https://github.com/kongzyeons/heart_disease)
 
 
 
