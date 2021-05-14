@@ -2,6 +2,11 @@
 
 ### Hi I'm Suphanat, Welcome to my Github profile 👋
 
+
+<img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/BrickSweeper/01.png" alt="search page" width="350"/>  <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/BrickSweeper/02.png" alt="search page" width="320"/> 
+
+<img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/BrickSweeper/03.png" alt="search page" width="350"/> <img src="https:/
+
 ![img1](https://user-images.githubusercontent.com/80037547/118217812-6b20a280-b4a0-11eb-9ceb-574a2f7c9c61.jpg)
 
 
