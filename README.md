@@ -72,7 +72,7 @@ A project that graduated in the 4th year ,Due to the current epidemic of COVID-1
    
    A project that internship in the 3th year. Due to the epidemic of COVID-19, I need an internship with a teacher that work in siriraj hospital mahidol university about diabetic retinopathy the optic disc and cup segmentation
    
-   ![001R (2)](https://user-images.githubusercontent.com/80037547/118231196-f60d9700-b4b8-11eb-8085-b7f199bd8bab.jpg)
+   ![001R (2)](https://user-images.githubusercontent.com/80037547/118231816-d32fb280-b4b9-11eb-9eb6-64a011659bb6.jpg)
 
    
    ### Heart Disease UCI
