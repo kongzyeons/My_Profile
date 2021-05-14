@@ -81,6 +81,9 @@ A project that graduated in the 4th year ,Due to the current epidemic of COVID-1
    
    This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to
 this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
+
+
+![1620974471891](https://user-images.githubusercontent.com/80037547/118231974-138f3080-b4ba-11eb-9f1d-712f47f31e7e.jpg)
    
 
 
