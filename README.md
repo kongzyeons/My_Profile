@@ -2,6 +2,9 @@
 
 ### Hi I'm Suphanat, Welcome to my Github profile 👋
 
+![img](https://user-images.githubusercontent.com/80037547/118217539-df0e7b00-b49f-11eb-88d3-a75e77be087e.jpg)
+
+
 😄Hello my name is Suphanat Boonbundransuk, my nickanme is kong.
 
 🎓I attained a bachelor's degree after graduating from Kasetsart university of Industrial Engineering.
