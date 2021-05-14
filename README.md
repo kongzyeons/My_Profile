@@ -1,6 +1,6 @@
 # Portfolio
 
-### Hi I'm Suphanat, Welcome to my profile 👋
+### Hi I'm Suphanat Boonbundransuk, Welcome to my profile 👋
 
 
 
