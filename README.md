@@ -70,12 +70,17 @@ A project that graduated in the 4th year ,Due to the current epidemic of COVID-1
 
    ### Optic-Disc and Cup Segmentation
    
-   A project that internship in the 3th year Due to the epidemic of COVID-19, I need an internship with a teacher that work in siriraj hospital mahidol university about diabetic retinopathy the optic disc and cup segmentation
+   A project that internship in the 3th year. Due to the epidemic of COVID-19, I need an internship with a teacher that work in siriraj hospital mahidol university about diabetic retinopathy the optic disc and cup segmentation
    
    ![001R (2)](https://user-images.githubusercontent.com/80037547/118231196-f60d9700-b4b8-11eb-8085-b7f199bd8bab.jpg)
 
    
+   ### Heart Disease UCI
    
+   A project that management information system to kaggle <(https://www.kaggle.com/ronitf/heart-disease-uci)
+   
+   This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to
+this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
    
 
 
