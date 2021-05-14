@@ -28,7 +28,7 @@ I am interested in Artificial Intelligence, Machine Learning, and Data Science.A
 
 
 ## Internship experience 🏥
-Due to the epidemic of COVID-19, I need an internship with a teacher.
+😭😭😭Due to the epidemic of COVID-19, I need an internship with a teacher.😭😭😭
 - Optic-Disc and Cup Segmentation
 
 - Have practiced problem solving skills
