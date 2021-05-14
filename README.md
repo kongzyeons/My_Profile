@@ -28,6 +28,7 @@ I am interested in Artificial Intelligence, Machine Learning, and Data Science.A
 
 
 ## Internship experience 🏥
+Due to the epidemic of COVID-19, I need an internship with a teacher.
 - Optic-Disc and Cup Segmentation
 
 - Have practiced problem solving skills
@@ -46,11 +47,18 @@ I am interested in Artificial Intelligence, Machine Learning, and Data Science.A
 - Heart Disease UCI >(https://github.com/kongzyeons/heart_disease)
 
 
-
-
 ### Chest X-Ray COVID-19 Model
 
-A project that graduated in the 4th year.
+A project that graduated in the 4th year ,Due to the current epidemic of COVID-19, the number of infected people has increased rapidly and there is no vaccine yet. It is therefore important to discriminate the COVID-19 patients from pneumonia patients. And due to the increasement of the number of patients, developing algorithms to help filtering the patients is then considerable. 
+	We, as a project team, have used the machine learning which learns a convolutional neural network to create an appropriate model to help filtering the patients more rapidly Accordingly, we distinguish the chest x-ray films to 3 types of films which are X-ray of pneumonia, X-ray of COVID-19, and X-ray of neither pneumonia nor COVID-19 which refers to be normal X-ray films.
+   
+   ![1620969057101](https://user-images.githubusercontent.com/80037547/118224534-91007400-b4ad-11eb-98df-9a26a0ec007b.jpg)
+   
+   
+   According to the results, it was found that the most suitable model to screen the COVID-19 patients by using the lung X-ray films is a Resnet 50 model that has been trained and evaluated. When compared to other models using Recall and Specificity, which the recall value was 0.9700 and the specificity value was 0.9674, which both values were the highest recall value and specificity value, respectively. And consequently, the area below the curve was 0.9990.
+   
+   
+
 
 
 
