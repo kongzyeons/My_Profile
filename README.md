@@ -36,3 +36,10 @@
 - Receive tutoring in high school mathematics
 
 ![342592](https://user-images.githubusercontent.com/80037547/117410025-1333ea00-af3c-11eb-9747-9055a3868c4a.jpg)
+
+## My project
+
+  I studied industrial engineering at Kasetsart University year 4.
+I am interested in artificial intelligence, machine learning, and data science.Although, I will study industrial engineering,but I feel challenging with these of work
+
+
